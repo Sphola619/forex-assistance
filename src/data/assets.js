@@ -2,7 +2,7 @@
 // overview page and detail page stay consistent.
 export const assets = [
   {
-    slug: 'usdzar',
+    slug: 'usdzar', // The slug is used in the URL and should be lowercase and hyphenated if needed.
     symbol: 'USDZAR',
     apiSymbol: 'USDZAR.FOREX',
     name: 'US Dollar / South African Rand',
